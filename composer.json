@@ -1,0 +1,16 @@
+{
+    "name": "sadmachine/comrade",
+    "description": "PHP Framework",
+    "type": "library",
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "sadmachine",
+            "email": "github.sadmachine@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.*"   
+    },
+    "minimum-stability": "dev"
+}
